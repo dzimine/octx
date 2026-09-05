@@ -4,8 +4,7 @@ This project is a context visualizer for OpenCode. I built it with AI assistance
 
 ## Example
 
-**[See a full example report →](docs/octx-report.html)** *(download and open it — GitHub will
-not render a 1MB HTML file inline)*
+**[See a full example report →](https://dzimine.github.io/octx/)**
 
 An 11-call session with a reasoning model: the context window broken down by category, what
 each call added and why, how the window filled up, and the exact payload of every request.
