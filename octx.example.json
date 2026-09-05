@@ -1,0 +1,7 @@
+{
+  "level": "off",
+  "dir": "~/.local/share/octx",
+  "maxBlobBytes": 262144,
+  "redactHeaders": true,
+  "retainDays": 30
+}

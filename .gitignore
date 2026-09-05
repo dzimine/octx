@@ -1,0 +1,6 @@
+node_modules/
+octx-*.html
+!docs/octx-report.html
+*.log
+.opencode/
+.DS_Store
